@@ -28,7 +28,7 @@ export default function About() {
                 <div className="font-augustina text-3xl text-black tracking-tighter">Akin Can Koc</div>
             </div>
             <div className="flex container mx-auto justify-between"
-                 style={{minHeight: 600}}>
+                 style={{minHeight: 500}}>
                 <div className="flex-1 p-3">
                     <h1 className="text-3xl text-white font-semibold">Hi all, I'm Akın</h1>
                     <div className="py-3" />
@@ -72,7 +72,7 @@ export default function About() {
                     </div>
                 </div>
                 <div className="flex-1 relative"
-                     style={{marginLeft: 100, paddingBottom: 250}}>
+                     style={{marginLeft: 100, paddingBottom: 200}}>
                     <div id="animation-about"
                          style={{width: 500, height: 500}} />
                 </div>
